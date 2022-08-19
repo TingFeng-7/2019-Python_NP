@@ -6,4 +6,3 @@ class fruit :
 		print("i have",name)
 		print("and the num of thay")
 
-println(fruit._A_.)	
